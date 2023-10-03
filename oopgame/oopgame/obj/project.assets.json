@@ -8,26 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\aruzo\\.nuget\\packages\\": {}
+    "/Users/brat/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aruzo\\Documents\\OOPgame\\oopgame\\oopgame\\oopgame.csproj",
+      "projectUniqueName": "/Users/brat/Downloads/OOPgame/oopgame/oopgame/oopgame.csproj",
       "projectName": "oopgame",
-      "projectPath": "C:\\Users\\aruzo\\Documents\\OOPgame\\oopgame\\oopgame\\oopgame.csproj",
-      "packagesPath": "C:\\Users\\aruzo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aruzo\\Documents\\OOPgame\\oopgame\\oopgame\\obj\\",
+      "projectPath": "/Users/brat/Downloads/OOPgame/oopgame/oopgame/oopgame.csproj",
+      "packagesPath": "/Users/brat/.nuget/packages/",
+      "outputPath": "/Users/brat/Downloads/OOPgame/oopgame/oopgame/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\aruzo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/brat/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -61,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
       }
     }
   }
